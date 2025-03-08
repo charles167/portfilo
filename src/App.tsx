@@ -225,7 +225,7 @@ function App() {
 
   <div className="flex gap-6 mb-12 justify-center md:justify-start">
   <a 
-    href="/Portfolio/images/CharlesAblanyaResume.pdf" 
+    href="/images/CharlesAblanyaResume.pdf" 
     download="My_CV.pdf" 
     className="bg-gradient-to-r from-teal-400 to-blue-500 hover:from-teal-500 hover:to-blue-600 transition px-6 py-3 rounded-full text-white font-semibold shadow-md transform hover:scale-105"
   >
@@ -400,7 +400,7 @@ function App() {
   <div>
     <p className="text-blue-400">June 2023 - August 2023</p>
     <h4 className="text-xl font-medium">Full-Stack Developer Intern</h4>
-    <p className="text-gray-400">DXC Technology (New Orleans, LA)</p>
+    <p className="text-gray-400">DXC  (Remote)</p>
 
     {/* Key Skills */}
     <div className="flex flex-wrap gap-2 mt-2">
@@ -425,7 +425,7 @@ function App() {
   <div className="mt-8">
     <p className="text-blue-400">September 2021 - Present</p>
     <h4 className="text-xl font-medium">Software Engineering Instructor</h4>
-    <p className="text-gray-400">Texas State University</p>
+    <p className="text-gray-400">Remote</p>
 
     {/* Key Skills */}
     <div className="flex flex-wrap gap-2 mt-2">
