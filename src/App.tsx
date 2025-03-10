@@ -93,7 +93,7 @@ function App() {
 
   const projects = [
     {
-      title: "GrocerU Inventory App",
+      title: "Crownnygold",
       description: "Full-stack app to manage grocery items with AI-powered categorization",
       image: "https://images.unsplash.com/photo-1454165804606-c3d57bc86b40?auto=format&fit=crop&q=80&w=1000",
       technologies: ["Flask", "SQLite", "AI", "HTML", "CSS", "Bootstrap", "Javascript", "Python"],
@@ -104,7 +104,7 @@ function App() {
       description: "Enhanced site performance with responsive design and dynamic project data",
       image: "https://images.unsplash.com/photo-1432888498266-38ffec3eaf0a?auto=format&fit=crop&q=80&w=1000",
       technologies: ["React.js", "Node.js", "TailwindCSS", "APIs", "JavaScript", "TypeScript", "Vite"],
-      link: "https://charles167.github.io/crownnygold/"
+      link: "https://personal-1896.vercel.app/"
     },
     {
       title: "Climate Change Awareness Website",
