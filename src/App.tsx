@@ -255,7 +255,7 @@ function App() {
     {/* Profile Image */}
     <img 
       src="/images/20250311_144517-01.jpeg.jpg" 
-      alt="Suvesha Upreti" 
+      alt="ABLANYA CHARLES" 
       className="w-full h-full object-cover rounded-full"
     />
   </div>
