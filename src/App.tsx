@@ -254,7 +254,7 @@ function App() {
 
     {/* Profile Image */}
     <img 
-      src="/images/WhatsApp Image .jpg" 
+      src="/images/20250311_144517-01.jpeg.jpg" 
       alt="Suvesha Upreti" 
       className="w-full h-full object-cover rounded-full"
     />
